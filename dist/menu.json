@@ -1,0 +1,785 @@
+[
+    {
+        "name": "Tomato Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zc2gmlubph5bs8jratz3",
+        "category": "Soup",
+        "price": 129
+    },
+    {
+        "name": "Veg Manchow Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f8363392c8e5512823d258d4300580d2",
+        "category": "Soup",
+        "price": 139
+    },
+    {
+        "name": "Veg Hot and Sour Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/efb2fd74a9dc53a9fc477e2ed89867ad",
+        "category": "Soup",
+        "price": 149
+    },
+    {
+        "name": "Tomato Dhaniya Shorba Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c390ef54013c57da90862f217f3d5edd",
+        "category": "Soup",
+        "price": 149
+    },
+    {
+        "name": "Lemon Coriander Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/6cd5bad57d94e794e64b18649e6d4a83",
+        "category": "Soup",
+        "price": 149
+    },
+    {
+        "name": "Sweet Corn Soup",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/869633b642fb583740916fb4211b24a0",
+        "category": "Soup",
+        "price": 149
+    },
+
+
+
+
+
+
+
+
+
+
+    
+
+    {
+        "name": "Veg Manchurian Dry",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/65e88caec2998a63aeca3105b9c0df78",
+        "category": "Starters",
+        "price": 229
+    },
+    {
+        "name": "Veg Manchurian Gravy",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/5898d644e2cd9b2731615443537b87ff",
+        "category": "Starters",
+        "price": 229
+    },
+    {
+        "name": "Chilly Chana",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/5d3d4579b04c9e94118170aed209b7ef",
+        "category": "Starters",
+        "price": 229
+    },
+    {
+        "name": "Chilly Potato",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d5d139d653ea269d779ee8b40a992b8d",
+        "category": "Starters",
+        "price": 229
+    },
+    {
+        "name": "Honey Chilly Potato",
+        "image":"https://rakskitchen.net/wp-content/uploads/2022/07/honey-chilli.jpg",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Chilly Mushroom",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/1085ef76f0ef7689ecf47195f5dbd935",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Paneer 65",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/5f1d89bc7b3cbb4443d8b0a398fac3a4",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Peanut Kebab(6pcs)",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/7558ab5ae25f25b68f5a8633e681dddc",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Dahi Kebab(6pcs)",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/3d37569630e917eb6934bdade5fc1f10",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Hara Bhara Kebab(6pcs)",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/2a3a7178adfa212aa4f08af5685d5d80",
+        "category": "Starters",
+        "price": 249
+    },
+    {
+        "name": "Chilly Paneer",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c3c1381f2c43d0974e42c28c288cb302",
+        "category": "Starters",
+        "price": 279
+    },
+    {
+        "name": "Paneer Tikka",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/t91yzbufohla3y95aurc",
+        "category": "Starters",
+        "price": 299
+    },
+    {
+        "name": "Paneer Malai Tikka",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/eddc1f52388290d459a5be69ca2c65e2",
+        "category": "Starters",
+        "price": 299
+    },
+    {
+        "name": "Paneer Achari Tikka",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/7a0d0a6f3718ce7898fe92bc2de49899",
+        "category": "Starters",
+        "price": 299
+    },
+    {
+        "name": "Mushroom Tikka Dry",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/bfdaf963a32358737259626346849a08",
+        "category": "Starters",
+        "price": 299
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Plain Dosa",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/69a0f25f8b2772b32e7b22e8fc69503a",
+        "category": "South",
+        "price": 79 
+    },
+    {
+        "name": "Masala Dosa",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a3ef52392ff0261d26d336a7fb28e2da",
+        "category": "South",
+        "price": 109
+    },
+    {
+        "name": "Mysore Masala Dosa",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c6aa10f274404e443d11d2482bc76235",
+        "category": "South",
+        "price": 119
+    },
+    {
+        "name": "Plain Uttapam",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/317024b5f4c624f9438b668c8f803a3c",
+        "category": "South",
+        "price": 79
+    },
+    {
+        "name": "Onion Uttapam",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a7980b388f4063566c83dd42159e7352",
+        "category": "South",
+        "price": 99
+    },
+    {
+        "name": "Idli Sambar",
+        "image":"https://st4.depositphotos.com/19960896/31275/i/450/depositphotos_312752076-stock-photo-idli-sambhar-idly-sambar-popular.jpg",
+        "category": "South",
+        "price": 79
+    },
+    {
+        "name": "Vada Sambar",
+        "image":"https://media.istockphoto.com/id/1205482272/photo/medu-wada-with-sambar-and-chutney-south-indian-breakfast-or-snack-dish-on-banana-leaf.jpg?s=612x612&w=0&k=20&c=e0f0_ik1YETKco-jJwbbh3vP_GrOD-oh2KucGSUbQOg=",
+        "category": "South",
+        "price": 79
+    },
+    {
+        "name": "Extra Idli",
+        "image":"https://t4.ftcdn.net/jpg/04/97/86/19/360_F_497861919_YpD1bljFxozYpF3LNM91zWOubJCPH8hm.jpg",
+        "category": "South",
+        "price": 25
+    },
+    {
+        "name": "Extra Vada",
+        "image":"https://www.chefkunalkapur.com/wp-content/uploads/2021/06/Medu-Vada-1300x867.jpg?v=1623509746",
+        "category": "South",
+        "price": 25
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Margherita Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/09713702f88856b615fc5233e38c1c89",
+        "category": "Pizza",
+        "price": 149
+    },
+    {
+        "name": "Sweet Corns Delight",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d0r7bd0shn5dj71j5wns",
+        "category": "Pizza",
+        "price": 149
+    },
+    {
+        "name": "Lovers Bite Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wwdtmrkabjcdcwnysfos",
+        "category": "Pizza",
+        "price": 199
+    },
+    {
+        "name": "Double Cheese Margherita Pizza",
+        "image":"https://tmkbalaghat.com/wp-content/uploads/2022/01/img-3389638cheese-20margherita-500x500-1.png",
+        "category": "Pizza",
+        "price": 199
+    },
+    {
+        "name": "Paneer Tikka Butter Masala Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ne7xgfbwbeahbubgln8v",
+        "category": "Pizza",
+        "price": 249
+    },
+    {
+        "name": "Farm Villa Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c1lpy0snxc7hflhki3gv",
+        "category": "Pizza",
+        "price": 249
+    },
+    {
+        "name": "English Retreat Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/zh0m9qzswjevneurgqhy",
+        "category": "Pizza",
+        "price": 299
+    },
+    {
+        "name": "Cheese Lovers Pizza",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f0de51d19f56337926fcc1c546023db5",
+        "category": "Pizza",
+        "price": 299
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Potato Crunch Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/1fc5852df2d7a0077511d11abdd44d5f",
+        "category": "Burger",
+        "price": 59
+    },
+    {
+        "name": "Veg Snacker Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/34a1078965b1cd96e6cf2692ccf1b5e2",
+        "category": "Burger",
+        "price": 59
+    },
+    {
+        "name": "Dum Aloo Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/eec4df6eb357c182f144cb5c73a721d5",
+        "category": "Burger",
+        "price": 69
+    },
+    {
+        "name": "Chunky Paneer Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ba1647f03632a897a9e3c677ccc0442e",
+        "category": "Burger",
+        "price": 79
+    },
+    {
+        "name": "Potato Crunch Double Patty Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/cf1f492daa749a533bdf6ac1a8830ecf",
+        "category": "Burger",
+        "price": 99
+    },
+    {
+        "name": "Dum Aloo Double Patty Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/0b5c232b0fe710150dba69cf5d57d7b3",
+        "category": "Burger",
+        "price": 119
+    },
+    {
+        "name": "Chunky Paneer Double Patty Burger",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ba1647f03632a897a9e3c677ccc0442e",
+        "category": "Burger",
+        "price": 139
+    },
+    {
+        "name": "King's Fav Burger",
+        "image":"https://hungryforever.net/wp-content/uploads/2016/03/Maharaja-Mac-1000x600.jpg",
+        "category": "Burger",
+        "price": 189
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Classic Salted Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/752337055524794be0bc01f958da859d",
+        "category": "Fries",
+        "price": 79
+    },
+    {
+        "name": "Portuguese Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/c3e949ae9d454a6c12aa7837549cdb9e",
+        "category": "Fries",
+        "price": 89
+    },
+    {
+        "name": "Smokey Bbq Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/715f1f0caed4344fc37f4710c286dfb4",
+        "category": "Fries",
+        "price": 89
+    },
+    {
+        "name": "African Peri Peri Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/13f5857576d5f10f0e956969c0d4fd83",
+        "category": "Fries",
+        "price": 109
+    },
+    {
+        "name": "Cheesy Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/31994853b75db2ed4d59a5fa47622915",
+        "category": "Fries",
+        "price": 109
+    },
+    {
+        "name": "Mushroom & Cheese Fries",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/df82e679b6256c9acdf8e091db7859cc",
+        "category": "Fries",
+        "price": 119
+    },
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Roti",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/0daa0a3700c6dbcaeb6c98cec64b398d",
+        "category": "Bread",
+        "price": 12
+    },
+    {
+        "name": "Butter Roti",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/b8bda52393bcaac6f371bf4e508834ad",
+        "category": "Bread",
+        "price": 15
+    },
+    {
+        "name": "Missi Roti",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/20ab664137190c3af03a930ac842fffe",
+        "category": "Bread",
+        "price": 25
+    },
+    {
+        "name": "Butter Naan",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/k6eh64rvvolguc31b3q4",
+        "category": "Bread",
+        "price": 40
+    },
+    {
+        "name": "Garlic Naan",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/217c73a0adc8b302a4bc36dfd8971dd8",
+        "category": "Bread",
+        "price": 45
+    },
+    {
+        "name": "Stuffed Naan",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/9c52e067a1f381e7c510ac1b9e04eaca",
+        "category": "Bread",
+        "price": 60
+    },
+    {
+        "name": "Laccha Paratha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d5eea1e45480cd6f345bffd4c060e832",
+        "category": "Bread",
+        "price": 35
+    },
+    {
+        "name": "Aloo Stuffed Paratha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/4eea7e57246b629f0c7f463ae1394f2a",
+        "category": "Bread",
+        "price": 50
+    },
+    {
+        "name": "Stuffed Paneer Paratha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/894cd88fd2bcf1ee0af1491f983343ab",
+        "category": "Bread",
+        "price": 60
+    },
+    {
+        "name": "Kulcha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d3e0f71e5195b598ed023d29d20d098c",
+        "category": "Bread",
+        "price": 30
+    },
+    {
+        "name": "Aloo Stuffed Kulcha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/d2cf944bb65f7af65b18df1ebed15c2a",
+        "category": "Bread",
+        "price": 50
+    },
+    {
+        "name": "Masala Stuffed Kulcha",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/3cfe7c47a1ababda3ea1135a452278a6",
+        "category": "Bread",
+        "price": 50
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "name": "Boiled Rice",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/58c8cbbd5572aeddc52baa38a1be6d6c",
+        "category": "Rice",
+        "price": 109
+    },
+    {
+        "name": "Vegetable Pulao",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/3dbb5a87a904e4bbbfd237d53fef1e67",
+        "category": "Rice",
+        "price": 129
+    },
+    {
+        "name": "Jeera Fried Rice",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/tqnw4m8ftwbraqnm4pgj",
+        "category": "Rice",
+        "price": 149
+    },
+    {
+        "name": "Veg Schezwan Fried Rice",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/114b20a968b694ca49722d4a0fd6382c",
+        "category": "Rice",
+        "price": 179
+    },
+    {
+        "name": "Veg Biryani",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/h6thr8apap4y5ppzpjja",
+        "category": "Rice",
+        "price": 209
+    },
+    {
+        "name": "Veg Biryani Served with Raita",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/rkrombuekmznyhyl1ipc",
+        "category": "Rice",
+        "price": 249
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "name": "Kaju Curry",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/670f4dda8fd0787e7887c7d357f1d6ea",
+        "category": "Main Course",
+        "price": 279
+    },
+    {
+        "name": "Paneer Bhurji",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/449b3a2961e6993057a6ac4c83570637",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Paneer Tikka Masala",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/53074e06b0bb5c7dd3f0ba90ac6800a4",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Paneer Lababdaar",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/6758c3aa7f8463a0b4169f72f39a082b",
+        "category": "Main Course",
+        "price": 259
+    },
+    {
+        "name": "Butter Paneer Masala",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/663d80f5b9ec078ec6686cae227befb1",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Kadhai Paneer",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/696326c9ce789e7e2b13ed9b564030d6",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Shahi Paneer",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/50ce1a1bf28a7e61d42462cda174e628",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Mutter Paneer",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/eb40d700024d8cc9db009b706199d12d",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Palak Paneer",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/843351722e4ae5a78c92c397e9156b29",
+        "category": "Main Course",
+        "price": 249
+    },
+    {
+        "name": "Mutter Methi Malai",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/e6ad9e7ecc4e655a84ad2beaab12f0b0",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Veg. Kofta",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/dc6c4a1524ae4fbc1c49f9c22d6f7a82",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Malai Kofta Red Gravy",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/1796a245446f9795a9ae766dd1483a1f",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Malai Kofta White Gravy",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/9b8c6a7e9111e120bc07ebda3affa7f6",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Soya Tikka Masala",
+        "image":"https://theolddelhi.com/wp-content/uploads/2021/08/download-7.jpg",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Soya Curry Chaap",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ce3571760cb9532bb4591bfa6e8ecbdf",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Dum Aaloo Kashmiri",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f8b87906f6b443c5cc9c95eb4979dead",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Dum Aaloo Punjabi",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/89b2381260ae69d944e6dbf8c943c438",
+        "category": "Main Course",
+        "price": 229
+    },
+    {
+        "name": "Mix Veg.",
+        "image":"https://www.cookwithmanali.com/wp-content/uploads/2023/01/Mixed-Veg-Sabzi-500x500.jpg",
+        "category": "Main Course",
+        "price": 179
+    },
+    {
+        "name": "Cholla Masala",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/cd0c569c425e182feca05ee1c2d354ab",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Rajma Masala",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/5e0cae25da2e4976fc51c946f591ddf5",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Pindi Chana",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/5306378d8f143470e1dc41228e1f7045",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Aaloo Gobhi",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ef49edf03fdd71868a37f7774cfc55bf",
+        "category": "Main Course",
+        "price": 149
+    },
+    {
+        "name": "Sev Tamatar",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/6d2b9a0aff64f80ea7a5e8252da61c97",
+        "category": "Main Course",
+        "price": 149
+    },
+    {
+        "name": "Aaloo Mutter",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f416659b9f5da1ab472d36e1801cb110",
+        "category": "Main Course",
+        "price": 149
+    },
+    {
+        "name": "Jeera Aaloo",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/a1d777b092419bbf4995599e8c88dfff",
+        "category": "Main Course",
+        "price": 149
+    },
+    {
+        "name": "Kadhi Pakora",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/8e0563ee44d2a40534f4637ff38c1708",
+        "category": "Main Course",
+        "price": 169
+    },
+    {
+        "name": "Daal Makhani",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/0522d6752b0bdeb6bfd4f5bb9bb49fa8",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Daal Bukhara",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ccda3b63fd19e5ecbbb0849b3f7f901e",
+        "category": "Main Course",
+        "price": 209
+    },
+    {
+        "name": "Daal Tadka",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/93dcedbe8385b8b1f7c350fe36944c65",
+        "category": "Main Course",
+        "price": 199
+    },
+    {
+        "name": "Daal Fry",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/1040fd58a05272702ccbac63582c5214",
+        "category": "Main Course",
+        "price": 189
+    },
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "name": "Gulab Jamun (2 Pcs)",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ea85a95125c27a5da305c03001e8d56f",
+        "category": "Dessert",
+        "price": 49
+    },
+    {
+        "name": "Rasgulla",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/fbcb545c3269c06fdec87dddfbbf7690",
+        "category": "Dessert",
+        "price": 49
+    },
+    {
+        "name": "Special Rabdi",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/gmucnd48vja7o95twvyt",
+        "category": "Dessert",
+        "price": 49
+    },
+    {
+        "name": "Rasmalai",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/cfarf6oryrf3x2snxeu9",
+        "category": "Dessert",
+        "price": 49
+    },
+    {
+        "name": "Choco Lava Cake",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/f3fuw9kj6fiyzi9fgokt",
+        "category": "Dessert",
+        "price": 89
+    },
+    {
+        "name": "Red Velvet Lava Cake",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/96e8ac68c1aedb837ff1665befe1c900",
+        "category": "Dessert",
+        "price": 89
+    },
+    {
+        "name": "Brownie",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/7ac7f4004c86ebb381fa1c0c3bd58722",
+        "category": "Dessert",
+        "price": 99
+    },
+    {
+        "name": "Truffle Jar Cake",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/7d1ba2f177c2cbf5d9fbcaa6a994f890",
+        "category": "Dessert",
+        "price": 129
+    },
+    {
+        "name": "Death by Chocolate Cake Jar",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/ebbdf44e69770eb0c605ee375d60fc9d",
+        "category": "Dessert",
+        "price": 129
+    },
+    {
+        "name": "Triple Chocolate Mousse Jar",
+        "image":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/57a3048ed5eeec41aa7c0e8bd55f019f",
+        "category": "Dessert",
+        "price": 129
+    }
+
+
+]    

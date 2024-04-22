@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "1",
+        "name": "Paneer Tikka",
+        "recipe": "Soft paneer cubes marinated in a seasoned masala and cooked in a tandoor. Serves 1-2.",
+        "image": "/images/recipes/paneertikka.png",
+        "category": "popular",
+        "price": 359
+    },
+    {
+        "_id": "2",
+        "name": "Masala Dosa",
+        "recipe": "This aromatic dish features a thin dosa made from fermented rice and lentil batter.Served with coconut chutney, red ginger chutney and sambhar.",
+        "image": "/images/recipes/masaladosa.png",
+        "category": "popular",
+        "price": 240
+    },
+    {
+        "_id": "3",
+        "name": "Gulab Jamun",
+        "recipe": "Soft delicious berry sized balls made of milk solids, flour & a leavening agent.",
+        "image": "/images/recipes/gulabjamun.png",
+        "category": "popular",
+        "price": 60
+    },
+    {
+        "_id": "4",
+        "name": "Tandoori Momos",
+        "recipe": "Veg-filled dumplings cooked in a tandoor oven with a spicy masala seasoning, offering a flavorful and aromatic vegetarian snack option.",
+        "image": "/images/recipes/tandoorimomos.png",
+        "category": "popular",
+        "price": 120
+    },
+    {
+        "_id": "5",
+        "name": "Paneer Salad",
+        "recipe": "Grilled paneer with boiled exotic veggies ,broccoli,beans,carrot,cucumber,tomato,corn",
+        "image": "/images/recipes/paneersalad.png",
+        "category": "popular",
+        "price": 120
+    },
+    {
+        "_id": "6",
+        "name": "Dal Tadka",
+        "recipe": "A flavorful, comforting Indian delicacy with a perfect balance of aromatics and rich, earthy flavors.",
+        "image": "/images/recipes/daltadka.png",
+        "category": "popular",
+        "price": 180
+    }
+]
