@@ -15,6 +15,8 @@ import Payment from "../pages/shop/Payment";
 import Order from "../pages/dashboard/admin/Order";
 import ManageBookings from "../pages/dashboard/admin/ManageBookings";
 import UpdateOrder from "../pages/dashboard/admin/UpdateOrder";
+import About from "../pages/shop/About";
+import Offers from "../pages/shop/Offers";
 
 
 
@@ -31,6 +33,14 @@ const router = createBrowserRouter([
       {
         path: "/menu",
         element: <Menu />,
+      },
+      {
+        path: "/offers",
+        element: <Offers />,
+      },
+      {
+        path: "/about",
+        element: <About />,
       },
       {
         path:"/cart-page",
@@ -92,3 +102,4 @@ const router = createBrowserRouter([
 ]);
 
 export default router;
+
