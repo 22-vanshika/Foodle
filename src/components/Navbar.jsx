@@ -60,8 +60,12 @@ const Navbar = () => {
                   Menu
                 </a>
               </button>
-              <p className="hover:text-black  ">Services</p>
-              <p className="hover:text-black">Offers</p>
+              <a className="hover:text-black" href="/offers">
+                  Offers
+                </a>
+              <a className="hover:text-black" href="/about">
+                  About
+                </a>
             </div>
 
             <div className="flex gap-3 items-center justify-center text-stone-500 ">
@@ -150,3 +154,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
