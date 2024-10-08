@@ -3,12 +3,14 @@ import Card from "../home/Card";
 import sort from "/sort.png";
 import logo from "/logo.png";
 import Navbar from "../../components/Navbar";
+import { AiOutlineLoading3Quarters } from "react-icons/ai";
 
 const Menu = () => {
   const [menu, setMenu] = useState([]);
   const [filteredItems, setFilteredItems] = useState([]);
   const [selectedCategory, setSelectedCategory] = useState("all");
   const [sortOption, setSortOption] = useState("default");
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetchdata = async () => {
@@ -17,8 +19,10 @@ const Menu = () => {
         const data = await response.json();
         setMenu(data);
         setFilteredItems(data);
+        setLoading(false);
       } catch (error) {
         console.log("Error Fetching data", error);
+        setLoading(false);
       }
     };
     fetchdata();
@@ -251,12 +255,18 @@ const Menu = () => {
         </div>
       </div>
 
-      <div className=" py-20">
-        <div className="flex flex-wrap px-28 gap-20 justify-center">
-          {filteredItems.map((item) => (
-            <Card key={item._id} item={item} />
-          ))}
-        </div>
+    <div className="py-20">
+        {loading ? (
+          <div className="flex justify-center items-center">
+            <AiOutlineLoading3Quarters className="animate-spin text-4xl text-gray-500" />
+          </div>
+        ) : (
+          <div className="flex flex-wrap px-28 gap-20 justify-center">
+            {filteredItems.map((item) => (
+              <Card key={item._id} item={item} />
+            ))}
+          </div>
+        )}
       </div>
     </div>
   );
