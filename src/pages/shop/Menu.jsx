@@ -111,7 +111,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/bro.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
 
@@ -124,7 +124,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/burger.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Burgers</button>
@@ -135,7 +135,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/fries.png"
-              className="rounded-full h-20 w-20  hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20  hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Fries</button>
@@ -146,7 +146,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/pizza2.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5 ">Pizza</button>
@@ -157,7 +157,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/starter.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5 ">Starters</button>
@@ -168,7 +168,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/soup.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Soups</button>
@@ -179,7 +179,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/dosa.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
 
@@ -191,7 +191,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/maincourse.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-5000 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-5000 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5 ">Main Course</button>
@@ -202,7 +202,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/roti.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Indian Bread</button>
@@ -213,7 +213,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/rice.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Rice</button>
@@ -224,7 +224,7 @@ const Menu = () => {
           >
             <img
               src="/images/recipes/dessert.png"
-              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-10 hover:scale-150 duration-100 transition-all ease-in-out"
+              className="rounded-full h-20 w-20 hover:shadow-xl hover:shadow-slate-500 hover:-translate-y-5 hover:scale-110 duration-100 transition-all ease-in-out"
               alt="yo"
             />
             <button className=" max-h-5">Desserts</button>
