@@ -129,7 +129,7 @@ const Navbar = () => {
 
               <div className="">
               
-                  <Profile user={} />
+                  <Profile  />
               
               </div>
             </div>
