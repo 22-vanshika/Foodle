@@ -17,7 +17,7 @@ const Card = ({ item }) => {
   const { user } = useContext(AuthContext);
   const handleAddToCart = (item) => {
 
-    if(user){
+    // if(user){
     console.log("bro");
     const { name, image, category, price } = item;
     
@@ -113,23 +113,23 @@ const Card = ({ item }) => {
           //   refetch()
           // }
         });
-      }
-      else{
-        Swal.fire({
-          title: "Please Login to add items to cart!",
-          width: 600,
-          padding: "3em",
-          confirmButtonColor: 'rgb(100 116 139)',
-          color: "rgb(100 116 139)",
-          background: "rgb(248 250 252) ",
-          backdrop: `
-          rgba(252 165 165/0.2)
-            url("/images/nyan-cat.gif")
-            left top
-            no-repeat
-          `
-        });
-      }
+      // }
+      // else{
+      //   Swal.fire({
+      //     title: "Please Login to add items to cart!",
+      //     width: 600,
+      //     padding: "3em",
+      //     confirmButtonColor: 'rgb(100 116 139)',
+      //     color: "rgb(100 116 139)",
+      //     background: "rgb(248 250 252) ",
+      //     backdrop: `
+      //     rgba(252 165 165/0.2)
+      //       url("/images/nyan-cat.gif")
+      //       left top
+      //       no-repeat
+      //     `
+      //   });
+      // }
   };
   return (
     <div>
