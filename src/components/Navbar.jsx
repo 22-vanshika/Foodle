@@ -127,7 +127,7 @@ const Navbar = () => {
                 </label>
               </Link>
 
-              <div className="">
+{/*               <div className="">
                 {user ? (
                   <Profile user={user} />
                 ) : (
@@ -142,7 +142,10 @@ const Navbar = () => {
                   </button>
                 )}
               </div>
-            </div>
+            </div> */}
+              <div className="">
+  <Profile user={user} />
+</div>
 
             <Modal />
           </div>
