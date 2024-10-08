@@ -17,21 +17,20 @@ const Navbar = () => {
   const { user,loading } = useAuth();
   const [cart, refetch] = useCart();
   // console.log(cart)
-useEffect(() => {
-  const handleScroll = () => {
-    const offset = window.scrollY;
-    if (offset > 0) {
-      setSticky(true);
-    } else {
-      setSticky(false);
-    }
-  };
-  window.addEventListener("scroll", handleScroll);
-  return () => {
-    window.removeEventListener("scroll", handleScroll); // Corrected this line
-  };
-}, []);
-
+  useEffect(() => {
+    const handleScroll = () => {
+      const offset = window.scrollY;
+      if (offset > 0) {
+        setSticky(true);
+      } else {
+        setSticky(false);
+      }
+    };
+    window.addEventListener("scroll", handleScroll);
+    return () => {
+      window.addEventListener("scroll", handleScroll);
+    };
+  }, []);
   return (
     <div
       className={`z-10 ${
@@ -128,25 +127,12 @@ useEffect(() => {
                 </label>
               </Link>
 
-{/*               <div className="">
-                {user ? (
-                  <Profile user={user} />
-                ) : (
-                  <button
-                    className="rounded-full px-3 py-1 border-2 border-red-500 flex items-center justify-center hover:scale-125 transition-all ease-in-out"
-                    onClick={() =>
-                      document.getElementById("my_modal").showModal()
-                    }
-                  >
-                    <FaUser className="size-3 " />
-                    <p className="px-1 text-stone-500">Login</p>
-                  </button>
-                )}
-              </div>
-            </div> */}
               <div className="">
-                  <Profile user={user} />
+              
+                  <Profile user={} />
+              
               </div>
+            </div>
 
             <Modal />
           </div>
