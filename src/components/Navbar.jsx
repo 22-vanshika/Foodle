@@ -17,20 +17,21 @@ const Navbar = () => {
   const { user,loading } = useAuth();
   const [cart, refetch] = useCart();
   // console.log(cart)
-  useEffect(() => {
-    const handleScroll = () => {
-      const offset = window.scrollY;
-      if (offset > 0) {
-        setSticky(true);
-      } else {
-        setSticky(false);
-      }
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => {
-      window.addEventListener("scroll", handleScroll);
-    };
-  }, []);
+useEffect(() => {
+  const handleScroll = () => {
+    const offset = window.scrollY;
+    if (offset > 0) {
+      setSticky(true);
+    } else {
+      setSticky(false);
+    }
+  };
+  window.addEventListener("scroll", handleScroll);
+  return () => {
+    window.removeEventListener("scroll", handleScroll); // Corrected this line
+  };
+}, []);
+
   return (
     <div
       className={`z-10 ${
@@ -144,8 +145,8 @@ const Navbar = () => {
               </div>
             </div> */}
               <div className="">
-  <Profile user={user} />
-</div>
+                  <Profile user={user} />
+              </div>
 
             <Modal />
           </div>
